@@ -2,11 +2,11 @@
 
 Collection of 3D models that have been used to assist in keeping the home hobby office tidy.  The models are created using the personal edition of Fusion 360 which is free for hobby and non-commercial use.
 
-## [PiSSDMate](PiSSDMate)
+## [PiHddMate](PiHddMate)
 
-This model provides a low profile way of attaching a Raspberry Pi to a 2.5 inch SSD.  This can be seen here as the blue mating connector:
+This model provides a low profile way of attaching a Raspberry Pi to a 2.5 inch HDD.  This can be seen here as the blue mating connector:
 
-![Pi SSD Mate](PiSSDMate/SSDMountAndPi.jpg)
+![Pi HDD Mate](PiHddMate/HddMountAndPi.jpg)
 
 ## [Spresense Development Mount](SpresenseDevelopmentMount)
 
