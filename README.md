@@ -13,3 +13,12 @@ This model provides a low profile way of attaching a Raspberry Pi to a 2.5 inch 
 Small mount for the Spresense expansion board:
 
 ![Spresense Expansion Board Mount](SpresenseDevelopmentMount/SpresenceDevelopmentMount.png)
+
+
+## WildernessLabs Models
+
+### Support for CCM Debug Board
+
+This support is designed to support the CCM debug module allowing debug probes to be connected to the board.
+
+![CCM Debug Support](CCMDebugSupport/CCMDebugSupport.jpg)
