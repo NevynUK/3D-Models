@@ -4,21 +4,28 @@ Collection of 3D models that have been used to assist in keeping the home hobby 
 
 ## [PiHddMate](PiHddMate)
 
-This model provides a low profile way of attaching a Raspberry Pi to a 2.5 inch HDD.  This can be seen here as the blue mating connector:
-
-![Pi HDD Mate](PiHddMate/HddMountAndPi.jpg)
+This model provides a low profile way of attaching a Raspberry Pi to a 2.5 inch HDD.
 
 ## [Spresense Development Mount](SpresenseDevelopmentMount)
 
-Small mount for the Spresense expansion board:
+Small mount for the Spresense expansion board
 
-![Spresense Expansion Board Mount](SpresenseDevelopmentMount/SpresenceDevelopmentMount.png)
+## [WildernessLabs Models](WildernessLabsBoardMounts/DIN%20Mounts)
 
+Various DIN rail clips to allow a debug board to be attached to an industry standard DIN rail.
 
-## WildernessLabs Models
+## [ESP-PROG Holder](ESP-Prog%20Holder)
 
-### Support for CCM Debug Board
+Small holder that can hold an ESP-PROG board (friction fit).  This holder has three holes in the base to allow it to be attached to a generic DIN clip.
 
-This support is designed to support the CCM debug module allowing debug probes to be connected to the board.
+## [ST Link Holder](ST-LinkHolder)
 
-![CCM Debug Support](CCMDebugSupport/CCMDebugSupport.jpg)
+Small holder that can hold an ESP-PROG board (friction fit).  This holder has three holes in the base to allow it to be attached to a generic DIN clip.
+
+## [Zero USB Hub](ZeroUSBHubMount)
+
+DIN mountable frame for the Zero USB Hub.
+
+## [Parametric DIN Mount](ParametrricDINMount)
+
+Original parametric DIN mount found on Printables.
